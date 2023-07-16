@@ -19,7 +19,7 @@
    * **Subject Name:** Data Structure & Algorithms
    * **Notes:** [Click Here]()
 
-## PCC-CS302
+## PCC-CS 302
    * **Subject Name:** Computer Organization
    * **Notes:** [Click Here]()
 
